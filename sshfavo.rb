@@ -1,6 +1,6 @@
 require 'formula'
 
-HOMEBREW_SSHFAVO_VERSION='0.1.0'
+HOMEBREW_SSHFAVO_VERSION='0.1.1'
 class Sshfavo < Formula
   homepage 'https://github.com/rytmrt/sshfavo'
   url 'https://github.com/rytmrt/sshfavo.git', :tag => "v#{HOMEBREW_SSHFAVO_VERSION}"
